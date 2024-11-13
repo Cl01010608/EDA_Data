@@ -4999,7 +4999,6 @@ id,first_name,last_name,email,gender,Company_name,Department,Job,Car,Date_last_p
 998,Pietra,Javes,pjavesrp@amazon.de,Female,Jazzy,Training,VP Product Management,False,2/8/2024,Seldom,30.82,Mercedes-Benz,,$38.81
 999,Klarika,Fahrenbacher,kfahrenbacherrq@zimbio.com,Female,Yacero,Research and Development,Biostatistician IV,True,3/19/2024,Weekly,38.57,Subaru,2007,$30.24
 1000,Kara-lynn,Humphrys,khumphrysrr@huffingtonpost.com,Female,Zazio,Support,VP Quality Control,False,5/15/2024,Monthly,6.13,Hyundai,2010,
-id,first_name,last_name,email,gender,Company_name,Department,Job,Do you have a car?,12/20/2023,Daily,Age,Car_make,Car_model_year,Wage_per_hour
 1,Elset,Eyckelbeck,eeyckelbeck0@bandcamp.com,Female,Oodoo,Accounting,Business Systems Development Analyst,True,11/13/2023,Never,26.93,Chevrolet,1995,$67.86
 2,Elmore,Copestake,ecopestake1@alexa.com,Male,Abatz,Product Management,Mechanical Systems Engineer,False,7/4/2024,Weekly,34.86,Mercedes-Benz,2002,$11.41
 3,Iolande,Wardhaw,iwardhaw2@fc2.com,Female,Dynabox,Human Resources,Speech Pathologist,False,3/14/2024,Weekly,20.19,Ford,2001,$73.65
